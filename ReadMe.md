@@ -1,5 +1,6 @@
 
 # 中文 Python 笔记
+fork https://github.com/lijin-THU/notes-python3
 
 Python 3版本的实体书：[《自学Python 编程基础、科学计算及数据分析 第2版》(李金)](https://item.jd.com/13403155.html)，京东/淘宝/当当等各平台均可购买，喜欢实体书的可以看看。
 
